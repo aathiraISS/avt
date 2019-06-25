@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/nbproject/private/
+/vendor/
+/nbproject/
+/frontend/runtime/debug/index.data
+/backend/runtime/debug/index.data
+/frontend/runtime/logs/app.log
+/backend/runtime/logs/app.log
+/backend/web/assets/
+/common/config/
+/frontend/web/assets/
+/frontend/runtime/
+/backend/runtime/
+/.gitignore/
+/composer.json/
+/composer.lock/
